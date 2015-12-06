@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/julianshapiro/velocity",
+    "version": "v1.2.3",
+    "name": "velocity",
+    "main": "velocity.js"
+}
